@@ -9,3 +9,8 @@
 
 this setup is made specificly for a BLOOGUARD chromebook, <br>
 so some keybinds might not make sense for your keyboard.
+
+the repo only includes wallpapers for 
+- arch linux
+- debain (wip)
+- (maybe more later)
