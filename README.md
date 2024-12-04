@@ -2,4 +2,5 @@
 
 ##### Installation
 
-simply clone the repo into yor ~/.config/ folder.
+1. clone the repo
+2. run install.sh (this will install some packages
