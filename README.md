@@ -2,4 +2,4 @@
 
 ##### Installation
 
-simply clone the repo into your home folder.
+simply clone the repo into yor ~/.config/ folder.
